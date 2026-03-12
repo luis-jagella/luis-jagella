@@ -1,5 +1,9 @@
 # Olá, eu sou o Luís Gabriel Pereira Jagella 👋
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/IDsy33Lv94MAAAAd/computer-home-office.gif" width="400px" />
+</p>
+
 ### 🙋‍♂️ Sobre Mim
 
 Sou um **Desenvolvedor Backend Júnior** com cerca de 3 anos de experiência profissional. Minha trajetória começou como Trainee, onde consolidei fundamentos sólidos que me permitiram evoluir para o cargo atual. Sou graduado em **Análise e Desenvolvimento de Sistemas** pela Católica de Santa Catarina e atualmente estou cursando uma pós focada totalmente em java e sua estrutura e frameworks mais utilizados no mercado juntamente com IA.
@@ -52,3 +56,18 @@ Atualmente, trabalho com **Caché ObjectScript**, mas estou em um processo inten
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=luis-jagella&theme=dark&hide_border=false" />
 </p>
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgabriel22)
+
+---
+
+```java
+if (codeWorking) {
+    while (codeQuality < perfectCode) {
+        codeQuality++;
+    }
+}
+// - Luís Jagella
