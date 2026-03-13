@@ -6,7 +6,7 @@
 
 ### 🙋‍♂️ Sobre Mim
 
-Sou um **Desenvolvedor Backend Júnior** com cerca de 3 anos de experiência profissional. Minha trajetória começou como Trainee, onde consolidei fundamentos sólidos que me permitiram evoluir para o cargo atual. Sou graduado em **Análise e Desenvolvimento de Sistemas** pela Católica de Santa Catarina e atualmente estou cursando uma pós focada totalmente em java e sua estrutura e frameworks mais utilizados no mercado juntamente com IA.
+Sou um **Desenvolvedor Backend Júnior** com cerca de 3 anos de experiência profissional. Minha trajetória começou como Trainee, onde consolidei fundamentos sólidos que me permitiram evoluir para o cargo atual. Sou graduado em **Análise e Desenvolvimento de Sistemas** pela Católica de Santa Catarina e atualmente estou cursando uma **pós graduação de Engenharia de Software com Java + IA na UNIPDS**.
 
 Atualmente, trabalho com **Caché ObjectScript**, mas estou em um processo intenso de transição e especialização para **Java e Spring Boot**. Sou entusiasta de **Clean Code**, arquitetura de software e busco sempre implementar soluções técnicas criativas e "fora da curva".
 
