@@ -8,7 +8,7 @@
 
 Sou um **Desenvolvedor Backend Júnior** com cerca de 3 anos de experiência profissional. Minha trajetória começou como Trainee, onde consolidei fundamentos sólidos que me permitiram evoluir para o cargo atual. Sou graduado em **Análise e Desenvolvimento de Sistemas** pela Católica de Santa Catarina e atualmente estou cursando uma **pós graduação de Engenharia de Software com Java + IA na UNIPDS**.
 
-Atualmente, trabalho com **Caché ObjectScript**, mas estou em um processo intenso de transição e especialização para **Java e Spring Boot**. Sou entusiasta de **Clean Code**, arquitetura de software e busco sempre implementar soluções técnicas criativas e "fora da curva".
+Atualmente, trabalho com **Caché ObjectScript**, mas estou em um processo de transição e especialização para **Java e Spring Boot**. Sou entusiasta de **Clean Code**, arquitetura de software e busco sempre implementar soluções técnicas criativas e "fora da curva".
 
 * **🌱 Foco Atual:** Especialização em Java, Spring Boot e Inteligência Artificial.
 * **💻 Ambiente de Dev:** Desenvolvo prioritariamente em ambiente **Linux (WSL2/Ubuntu)**, utilizando Zsh para produtividade.
@@ -17,7 +17,7 @@ Atualmente, trabalho com **Caché ObjectScript**, mas estou em um processo inten
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack (in progress)
 
 ### 🖥️ Backend & Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
