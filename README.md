@@ -1,19 +1,20 @@
 # Olá, eu sou o Luís Gabriel Pereira Jagella 👋
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgabriel22) 
+
 <p align="center">
-  <img src="https://media1.tenor.com/m/IDsy33Lv94MAAAAd/computer-home-office.gif" width="400px" />
+  <img src="https://media1.tenor.com/m/IDsy33Lv94MAAAAd/computer-home-office.gif" width="350px" />
 </p>
 
-### 🙋‍♂️ Sobre Mim
+### Sobre Mim
 
-Sou um **Desenvolvedor Backend Júnior** com cerca de 3 anos de experiência profissional. Minha trajetória começou como Trainee, onde consolidei fundamentos sólidos que me permitiram evoluir para o cargo atual. Sou graduado em **Análise e Desenvolvimento de Sistemas** pela Católica de Santa Catarina e atualmente estou cursando uma **pós graduação de Engenharia de Software com Java + IA na UNIPDS**.
+Sou um **Desenvolvedor Backend** com **3 anos de experiência** de mercado. Minha trajetória começou como Trainee, onde consolidei fundamentos sólidos que me permitiram evoluir rapidamente para criar e dar manutenção em sistemas críticos. Sou graduado em **Análise e Desenvolvimento de Sistemas** (Católica de Santa Catarina) e, de olho no futuro, estou cursando uma **Pós-graduação em Engenharia de Software com Java + IA** na UNIPDS.
 
-Atualmente, trabalho com **Caché ObjectScript**, mas estou em um processo de transição e especialização para **Java e Spring Boot**. Sou entusiasta de **Clean Code**, arquitetura de software e busco sempre implementar soluções técnicas criativas e "fora da curva".
+Atualmente, resolvo problemas complexos com Caché ObjectScript, mas meu foco e especialização estão voltados 100% para o ecossistema Java e Spring Boot. No dia a dia, prezo muito por um código legível e por uma arquitetura que faça sentido. Meu foco é entregar sistemas eficientes, que sejam fáceis de dar manutenção e que realmente resolvam o problema.
 
-* **🌱 Foco Atual:** Especialização em Java, Spring Boot e Inteligência Artificial.
-* **💻 Ambiente de Dev:** Desenvolvo prioritariamente em ambiente **Linux (WSL2/Ubuntu)**, utilizando Zsh para produtividade.
-* **🛠️ Projeto em Destaque:** Desenvolvi o **MyTasks**, uma aplicação full-stack utilizando Java, Node e React.
-* **🎮 Fora do Código:** No tempo livre, você me encontra jogando **CS2** ou treinando na academia.
+* **🌱 Foco Atual:** Especialização em Java, Spring Boot e integrações com Inteligência Artificial.
+* **💻 Ambiente de Dev:** Setup otimizado para produtividade extrema no **Linux (WSL2/Ubuntu)** utilizando Zsh.
+* **🛠️ Projeto em Destaque:** **MyTasks** — Uma plataforma full-stack focada em otimização de rotinas, desenvolvida com backend escalável em Java e interface em Node e React.
 
 ---
 
@@ -54,11 +55,6 @@ Atualmente, trabalho com **Caché ObjectScript**, mas estou em um processo de tr
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=luis-jagella&theme=dark&hide_border=false" />
 </p>
-
----
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgabriel22)
 
 ---
 
