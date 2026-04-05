@@ -45,19 +45,6 @@ Atualmente, resolvo problemas complexos com Caché ObjectScript, mas meu foco e 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-jagella&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-jagella&theme=dark&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=luis-jagella&theme=dark&hide_border=false" />
-</p>
-
----
-
 ```java
 if (codeWorking) {
     while (codeQuality < perfectCode) {
