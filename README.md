@@ -12,9 +12,9 @@ Sou um **Desenvolvedor Backend** com **3 anos de experiência** de mercado. Minh
 
 Atualmente, resolvo problemas complexos com Caché ObjectScript, mas meu foco e especialização estão voltados 100% para o ecossistema Java e Spring Boot. No dia a dia, prezo muito por um código legível e por uma arquitetura que faça sentido. Meu foco é entregar sistemas eficientes, que sejam fáceis de dar manutenção e que realmente resolvam o problema.
 
-* ** Foco Atual:** Especialização em Java, Spring Boot e integrações com Inteligência Artificial.
-* ** Ambiente de Dev:** Setup otimizado para produtividade extrema no **Linux (WSL2/Ubuntu)** utilizando Zsh.
-* ** Projeto em Destaque:** **MyTasks** — Uma plataforma full-stack focada em otimização de rotinas, desenvolvida com backend escalável em Java e interface em Node e React.
+* Foco Atual:** Especialização em Java, Spring Boot e integrações com Inteligência Artificial.
+* Ambiente de Dev:** Setup otimizado para produtividade extrema no **Linux (WSL2/Ubuntu)** utilizando Zsh.
+* Projeto em Destaque:** **MyTasks** — Uma plataforma full-stack focada em otimização de rotinas, desenvolvida com backend escalável em Java e interface em Node e React.
 
 ---
 
@@ -24,7 +24,6 @@ Atualmente, resolvo problemas complexos com Caché ObjectScript, mas meu foco e 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### 🌐 Frontend
@@ -34,7 +33,6 @@ Atualmente, resolvo problemas complexos com Caché ObjectScript, mas meu foco e 
 
 ### 🗄️ Database & Infrastructure
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🛠️ Tooling & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
