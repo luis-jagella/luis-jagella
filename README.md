@@ -12,9 +12,9 @@ Sou um **Desenvolvedor Backend** com **3 anos de experiência** de mercado. Minh
 
 Atualmente, resolvo problemas complexos com Caché ObjectScript, mas meu foco e especialização estão voltados 100% para o ecossistema Java e Spring Boot. No dia a dia, prezo muito por um código legível e por uma arquitetura que faça sentido. Meu foco é entregar sistemas eficientes, que sejam fáceis de dar manutenção e que realmente resolvam o problema.
 
-* Foco Atual:** Especialização em Java, Spring Boot e integrações com Inteligência Artificial.
-* Ambiente de Dev:** Setup otimizado para produtividade extrema no **Linux (WSL2/Ubuntu)** utilizando Zsh.
-* Projeto em Destaque:** **MyTasks** — Uma plataforma full-stack focada em otimização de rotinas, desenvolvida com backend escalável em Java e interface em Node e React.
+* **Foco Atual**: Especialização em Java, Spring Boot e integrações com Inteligência Artificial.
+* **Ambiente de Dev**: Setup otimizado para produtividade extrema no **Linux (WSL2/Ubuntu)** utilizando Zsh.
+* **Projeto em Destaque**: MyTasks — Uma plataforma full-stack focada em otimização de rotinas, desenvolvida com backend escalável em Java e interface em Node e React.
 
 ---
 
