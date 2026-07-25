@@ -1,7 +1,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgabriel22) 
 
-### Sobre Mim
+### About me
 
 Sou um **Desenvolvedor Backend** com **3 anos de experiência** de mercado. Minha trajetória começou como Trainee, onde consolidei fundamentos sólidos que me permitiram evoluir rapidamente para criar e dar manutenção em sistemas críticos. Sou graduado em **Análise e Desenvolvimento de Sistemas** (Católica de Santa Catarina) e, de olho no futuro, estou cursando uma **Pós-graduação em Engenharia de Software com Java + IA** na UNIPDS.
 
