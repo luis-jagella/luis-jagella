@@ -1,39 +1,62 @@
+<h1 align="center">Hi, I'm Luís Gabriel 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgabriel22) 
+<h3 align="center">Backend Developer focused on Java, Spring Boot, and maintainable software</h3>
 
-### About me
-
-Sou um **Desenvolvedor Backend** com **3 anos de experiência** de mercado. Minha trajetória começou como Trainee, onde consolidei fundamentos sólidos que me permitiram evoluir rapidamente para criar e dar manutenção em sistemas críticos. Sou graduado em **Análise e Desenvolvimento de Sistemas** (Católica de Santa Catarina) e, de olho no futuro, estou cursando uma **Pós-graduação em Engenharia de Software com Java + IA** na UNIPDS.
-
-Atualmente, resolvo problemas complexos com Caché ObjectScript, mas meu foco e especialização estão voltados 100% para o ecossistema Java e Spring Boot. No dia a dia, prezo muito por um código legível e por uma arquitetura que faça sentido. Meu foco é entregar sistemas eficientes, que sejam fáceis de dar manutenção e que realmente resolvam o problema.
-
-* **Foco Atual**: Especialização em Java, Spring Boot e integrações com Inteligência Artificial.
-* **Ambiente de Dev**: Setup otimizado para produtividade extrema no **Linux (WSL2/Ubuntu)** utilizando Zsh.
-* **Projeto em Destaque**: MyTasks — Uma plataforma full-stack focada em otimização de rotinas, desenvolvida com backend escalável em Java e interface em Node e React.
+<p align="center">
+  <a href="https://www.linkedin.com/in/luisgabriel22">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack (in progress)
+## About me
 
-### 🖥️ Backend & Core
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+I'm a **Backend Developer with 3 years of professional experience**, building and maintaining business-critical systems. I started my career as a trainee, developed a strong foundation in software development, and quickly grew into solving complex problems in production environments.
 
-### 🌐 Frontend
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Today, I work with **InterSystems Caché ObjectScript** while specializing in the **Java and Spring Boot ecosystem**. I enjoy turning complex requirements into reliable, efficient, and maintainable solutions—with readable code and architecture that serves a clear purpose.
 
-### 🗄️ Database & Infrastructure
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+I hold a degree in **Systems Analysis and Development** from Católica de Santa Catarina and am currently pursuing a **postgraduate degree in Software Engineering with Java and AI** at UNIPDS.
 
-### 🛠️ Tooling & Scripting
+## What I'm focused on
+
+- Deepening my expertise in **Java, Spring Boot, and backend architecture**
+- Exploring practical **AI integrations** in modern software systems
+- Building **MyTasks**, a full-stack platform designed to simplify routines through a scalable Java backend and a modern React frontend
+- Continuously improving my development workflow with **Linux, WSL2, Ubuntu, and Zsh**
+
+## Tech toolkit
+
+### Backend & core
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![ObjectScript](https://img.shields.io/badge/ObjectScript-27318A?style=for-the-badge&logo=intersystems&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Development environment
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 ---
+
+<p align="center">
+  <em>Building software that is clear, reliable, and genuinely useful.</em>
+</p>
