@@ -44,7 +44,7 @@ Atualmente trabalho com **InterSystems Caché ObjectScript** e aprofundo minha e
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=java,spring,ts,react,postgres,docker,git,linux,bash&perline=9" alt="Tecnologias: Java, Spring, TypeScript, React, PostgreSQL, Docker, Git, Linux e Bash" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" alt="Quarkus" />
 
 </div>
 
