@@ -1,58 +1,98 @@
-<h1 align="center">Hi, I'm Luís Gabriel 👋</h1>
+<div align="center">
 
-<h3 align="center">Backend Developer focused on Java, Spring Boot, and maintainable software</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lu%C3%ADs+Gabriel+%F0%9F%91%8B;Backend+Developer+%7C+Java+%7C+Spring+Boot;Construindo+software+claro%2C+confi%C3%A1vel+e+escal%C3%A1vel." alt="Apresentação animada" />
 
-<p align="center">
+  <br />
+  <br />
+
   <a href="https://www.linkedin.com/in/luisgabriel22">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <img src="https://img.shields.io/badge/Especialidade-Backend%20%7C%20Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Especialidade: Backend com Java" />
+  <img src="https://komarev.com/ghpvc/?username=luis-jagella&style=for-the-badge&color=58A6FF&label=VISITAS+NO+PERFIL" alt="Visualizações do perfil" />
+
+</div>
 
 ---
 
-## About me
+## Sobre mim
 
-I'm a **Backend Developer with 3 years of professional experience**, building and maintaining business-critical systems. I started my career as a trainee, developed a strong foundation in software development, and quickly grew into solving complex problems in production environments.
+Sou um **desenvolvedor Backend com 3 anos de experiência profissional**, focado em transformar regras de negócio complexas em sistemas confiáveis, legíveis e fáceis de evoluir.
 
-Today, I work with **InterSystems Caché ObjectScript** while specializing in the **Java and Spring Boot ecosystem**. I enjoy turning complex requirements into reliable, efficient, and maintainable solutions—with readable code and architecture that serves a clear purpose.
+Atualmente trabalho com **InterSystems Caché ObjectScript** e aprofundo minha especialização no ecossistema **Java e Spring Boot**. Sou formado em **Análise e Desenvolvimento de Sistemas** pela Católica de Santa Catarina e curso uma pós-graduação em **Engenharia de Software com Java e IA** na UNIPDS.
 
-I hold a degree in **Systems Analysis and Development** from Católica de Santa Catarina and am currently pursuing a **postgraduate degree in Software Engineering with Java and AI** at UNIPDS.
+<details>
+  <summary><strong>O que estou construindo e estudando</strong></summary>
+  <br />
 
-## What I'm focused on
+  - Arquitetura de aplicações backend com **Java, Spring Boot e Quarkus**;
+  - Integrações assíncronas e sistemas orientados a eventos com **Kafka**;
+  - Uso prático de **IA** em aplicações Java;
+  - **MyTasks**, uma plataforma full stack para simplificar rotinas, com backend escalável em Java e frontend em React;
+  - Fluxos de desenvolvimento mais produtivos com **Linux, WSL2, Ubuntu e Zsh**.
+</details>
 
-- Deepening my expertise in **Java, Spring Boot, and backend architecture**
-- Exploring practical **AI integrations** in modern software systems
-- Building **MyTasks**, a full-stack platform designed to simplify routines through a scalable Java backend and a modern React frontend
-- Continuously improving my development workflow with **Linux, WSL2, Ubuntu, and Zsh**
+<details>
+  <summary><strong>Meu jeito de desenvolver</strong></summary>
+  <br />
 
-## Tech toolkit
+  Gosto de código com propósito: nomes claros, responsabilidades bem definidas, testes onde importam e decisões de arquitetura que facilitem a manutenção. Para mim, uma boa solução precisa funcionar hoje e continuar compreensível amanhã.
+</details>
 
-### Backend & core
+## Stack principal
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![ObjectScript](https://img.shields.io/badge/ObjectScript-27318A?style=for-the-badge&logo=intersystems&logoColor=white)
+<div align="center">
 
-### Frontend
+  <img src="https://skillicons.dev/icons?i=java,spring,quarkus,ts,react,postgres,docker,git,linux,bash&perline=10" alt="Tecnologias: Java, Spring, Quarkus, TypeScript, React, PostgreSQL, Docker, Git, Linux e Bash" />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
 
-### Database
+<details>
+  <summary><strong>Ver tecnologias e ferramentas</strong></summary>
+  <br />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  | Área | Tecnologias |
+  | :-- | :-- |
+  | Backend | Java, Spring Boot, Quarkus, JPA/Hibernate, REST APIs, ObjectScript |
+  | Frontend | TypeScript, React |
+  | Dados | PostgreSQL, MySQL |
+  | Mensageria e observabilidade | Apache Kafka, OpenTelemetry |
+  | Ambiente | Linux, Ubuntu, WSL2, Docker, Git, Zsh, Bash |
+</details>
 
-### Development environment
+## Projetos em destaque
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+<div align="center">
+  <a href="https://github.com/luis-jagella/gitflow-coach">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luis-jagella&repo=gitflow-coach&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="gitflow-coach" />
+  </a>
+  <a href="https://github.com/luis-jagella/user-management-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luis-jagella&repo=user-management-api&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="user-management-api" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/luis-jagella/vai-comigo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luis-jagella&repo=vai-comigo&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="vai-comigo" />
+  </a>
+  <a href="https://github.com/luis-jagella/java-pos-modulo-03">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luis-jagella&repo=java-pos-modulo-03&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="java-pos-modulo-03" />
+  </a>
+</div>
+
+## Atividade no GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luis-jagella&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub de Luís Gabriel" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-jagella&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-jagella&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
+</div>
 
 ---
 
-<p align="center">
-  <em>Building software that is clear, reliable, and genuinely useful.</em>
-</p>
+<div align="center">
+  <sub>"Construindo software que seja claro, confiável e realmente útil."</sub>
+</div>
