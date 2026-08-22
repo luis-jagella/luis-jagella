@@ -62,29 +62,18 @@ Atualmente trabalho com **InterSystems Caché ObjectScript** e aprofundo minha e
 
 ## Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/luis-jagella/gitflow-coach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luis-jagella&repo=gitflow-coach&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="gitflow-coach" />
-  </a>
-  <a href="https://github.com/luis-jagella/user-management-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luis-jagella&repo=user-management-api&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="user-management-api" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/luis-jagella/vai-comigo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luis-jagella&repo=vai-comigo&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="vai-comigo" />
-  </a>
-  <a href="https://github.com/luis-jagella/java-pos-modulo-03">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luis-jagella&repo=java-pos-modulo-03&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="java-pos-modulo-03" />
-  </a>
-</div>
+| Projeto | Destaque |
+| :-- | :-- |
+| [GitFlow Coach](https://github.com/luis-jagella/gitflow-coach) | API Spring Boot para orientar equipes na adoção de Git e de um fluxo de trabalho padronizado. |
+| [User Management API](https://github.com/luis-jagella/user-management-api) | API REST com Spring Boot, JPA/Hibernate e MySQL para gerenciamento de usuários. |
+| [Vai Comigo](https://github.com/luis-jagella/vai-comigo) | Projeto de mobilidade assistida e acessível voltado a pessoas idosas. |
+| [Pós em Java — Módulo 03](https://github.com/luis-jagella/java-pos-modulo-03) | Anotações e projetos de backend com Spring Boot, Quarkus e Kafka. |
 
 ## Atividade no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luis-jagella&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub de Luís Gabriel" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-jagella&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luis-jagella&theme=github_dark" alt="Estatísticas do GitHub de Luís Gabriel" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luis-jagella&theme=github_dark" alt="Linguagens mais usadas nos repositórios" />
 </div>
 
 <div align="center">
