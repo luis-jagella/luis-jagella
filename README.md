@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Lu%C3%ADs+Gabriel+%F0%9F%91%8B;Backend+Developer+%7C+Java+%7C+Spring+Boot;Building+clear%2C+reliable+software." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Lu%C3%ADs+Gabriel+%F0%9F%91%8B;Backend+Developer+%7C+Java+%7C+Spring+Boot+%7C+Cach%C3%A9+ObjectScript%2FMUMPS;Building+clear%2C+reliable+software." alt="Animated introduction" />
 
   <br />
   <br />
