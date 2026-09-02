@@ -77,10 +77,6 @@ I currently work primarily with **InterSystems Caché ObjectScript (MUMPS)**, my
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luis-jagella&theme=github_dark" alt="Most used languages across repositories" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-jagella&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
-
 ---
 
 <div align="center">
