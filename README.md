@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/luisgabriel22">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Focus: Java backend development" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Java%20%7C%20Cach%C3%A9%20ObjectScript%2FMUMPS-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Focus: Java and Caché ObjectScript/MUMPS backend development" />
   <img src="https://komarev.com/ghpvc/?username=luis-jagella&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -19,7 +19,7 @@
 
 I am a **Backend Developer with 3 years of professional experience**, focused on turning complex business rules into reliable, readable, and maintainable systems.
 
-I currently work with **InterSystems Caché ObjectScript** while deepening my expertise in the **Java and Spring Boot** ecosystem. I hold a degree in **Systems Analysis and Development** from Católica de Santa Catarina and am pursuing a postgraduate degree in **Software Engineering with Java and AI** at UNIPDS.
+I currently work primarily with **InterSystems Caché ObjectScript (MUMPS)**, my main professional development language, while deepening my expertise in the **Java and Spring Boot** ecosystem. I hold a degree in **Systems Analysis and Development** from Católica de Santa Catarina and am pursuing a postgraduate degree in **Software Engineering with Java and AI** at UNIPDS.
 
 <details>
   <summary><strong>What I am building and learning</strong></summary>
@@ -54,7 +54,7 @@ I currently work with **InterSystems Caché ObjectScript** while deepening my ex
 
   | Area | Technologies |
   | :-- | :-- |
-  | Backend | Java, Spring Boot, Quarkus, JPA/Hibernate, REST APIs, ObjectScript |
+| Backend | Caché ObjectScript/MUMPS, Java, Spring Boot, Quarkus, JPA/Hibernate, REST APIs |
   | Frontend | TypeScript, React |
   | Data | PostgreSQL, MySQL |
   | Messaging and observability | Apache Kafka, OpenTelemetry |
